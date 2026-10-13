@@ -1,0 +1,8 @@
+# 真实数据绝不进仓库：账号 session_id 等于你的登录凭证
+data/byd_accounts.json
+data/byd_state.json
+data/byd_admin.json
+__pycache__/
+*.pyc
+venv/
+.venv/
